@@ -16,7 +16,7 @@
 <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 
 ```zsh
-deku09: ~/my_readme (main⚡)$ neofetch
+mridu: ~/my_readme (main⚡)$ neofetch
 ```
 
 <img align="left" src="img/COE/Kiyotaka_Ayanokouenji.webp" width="190px"/> 
