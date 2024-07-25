@@ -23,21 +23,21 @@ deku09: ~/my_readme (main⚡)$ neofetch
 <img align="left" src="img/COE/Kiyotaka_Ayanokouenji.webp" width="190px"/> 
 
 ```csharp
-Profile ver:本当が残酷な愛人なら、嘘はいい女に違いない(If the truth is a cruel mistress, then a lie must be a nice girl.)
+
 ----------------------------------------------------------------------------------------
-Username: Arihant Pal
-WhoamI: Student and Software Engineer. Also Artist (more or less)
-OS: Arch linux with Hyprland, Also Windows 11
+Username: Mridupaban
+WhoamI: Also Artist (more or less)
+OS: Windows 11,mac
 Shell: zsh 
-Loves: OSS, Fun DSA problems, Gym
+Loves: Fun DSA problems
 Pronouns: He/Him
 Location: India
-Languages: C,C++, Python, Javascript, Go, Flutter
-Main: Python, Go
-Learning: Ocaml, Rust
-FavouriteSong: Odoriko by Vaundy
+Languages: C,C++
+Main: c++
+Learning: 
+FavouriteSong: lemon
 FavouriteEquation: Schrödinger equation
-Hobbies: Gaming,watching anime,coding while I am listening music
+Hobbies: Gaming,watching anime,competitive programming
 ```
 <br>
 <br>
@@ -47,7 +47,7 @@ Hobbies: Gaming,watching anime,coding while I am listening music
 </div>
 <div align = "center">
     <p align = "justify">
-       I have a passion for low-level programming and web development, and I am also learning machine learning and using Jupyter Notebook for data analysis and AI. I have experience in mobile development with Flutter. My programming languages include Go,Typescript,  C/C++, Python, Shell Script, and a bit of CSS and JavaScript. English is my primary language, and I am pretty fluent in it. Additionally, I have some knowledge of Japanese (N5 ~ N4) ,Hindi and am currently learning German. I do my best in every specialization area and strive to improve every day. I also love watching anime. Feel free to check my repositories and share your opinion!
+           ok
         <br>
     </p>
     <p align = "center">
