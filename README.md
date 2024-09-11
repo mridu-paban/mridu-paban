@@ -19,14 +19,16 @@
 mridu: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="img/COE/Kiyotaka_Ayanokouenji.webp" width="190px"/> 
+<img align="left"  src="https://static1.personality-database.com/profile_images/af3fc4a4bfbf47c59a3de207ac82c20f.png" width="270px"/>
+
+
 
 ```csharp
 
 ----------------------------------------------------------------------------------------
 Username: Mridupaban
 WhoamI: 
-OS: Windows 11,mac
+OS: Windows 11,MacOS
 Loves: Fun DSA problems
 Pronouns: He/Him
 Location: India
@@ -34,7 +36,7 @@ Languages: C,C++
 Main: C++
 FavouriteSong: lemon
 FavouriteEquation: Schrödinger equation
-Hobbies: Gaming,watching anime,competitive programming
+Hobbies: watching anime,competitive programming
 ```
 <br>
 <br>
