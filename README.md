@@ -19,7 +19,7 @@
 mridu: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left"  src="https://static1.personality-database.com/profile_images/af3fc4a4bfbf47c59a3de207ac82c20f.png" width="270px"/>
+<img align="left"  src="https://static1.personality-database.com/profile_images/af3fc4a4bfbf47c59a3de207ac82c20f.png" width="200px"/>
 
 
 
